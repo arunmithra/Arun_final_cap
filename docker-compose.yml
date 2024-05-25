@@ -2,7 +2,7 @@
 version: '3'
 services:
 react-capstone:
-image: "arun_cap"
+image: "arun-cap"
 ports:
 - "80:80"
 ---
