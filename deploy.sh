@@ -11,6 +11,6 @@ elif [[ $GIT_BRANCH == "origin/main" ]]; then
     sh 'chmod +x build.sh'
     sh './build.sh'
     docker login -u arundockerhub2024 -p $DOCKER_PASSWORD
-    docker tag test arundockerhub2024/prod 
+    docker tag arun-cap arundockerhub2024/prod 
     docker push arundockerhub2024/prod
 fi
