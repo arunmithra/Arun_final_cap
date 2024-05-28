@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 
 DOCKER_USERNAME="arundockerhub2024"
-DOCKER_PASSWORD="dckr_pat_VSckYH1eVrxbzFBqN0dxbSozN2E"
+DOCKER_PASSWORD=""
 DOCKER_REPO="prod"
 DOCKER_TAG="latest"
 
